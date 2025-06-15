@@ -1,6 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
-
-# 👋 Hi, I'm FARAI CHIRUME 
+# 👋 Hi, I'm FARAI ARTHUR CHIRUME 
 
 🌱 Beginner To Intermidiate Software Developer | 🚀 Excited to Learn & Build
 
